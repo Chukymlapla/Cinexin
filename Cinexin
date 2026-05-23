@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Actualizada a 21-05-2026)",
+    "author": "chuky (Actualizada a 23-05-2026)",
     "image": "https://i.imgur.com/rnGjRi9.jpeg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{  
+                                       "name" : "Op 1 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+      "url" : "https://luluvid.com/d/wtxwkhxzqywe",             
+          "isHost" : "true"
+                                    },{ 
+                              "name" : "Op 2 Aída y vuelta (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/aida_y_vuelta-623102843-mmed.jpg",
+         "url" : "https://398fitus.com/e/kxsez6vrxjgd",             
+         "userAgent" : "navigator"
+                               },{            
                                        "name" : "Op 1 Mortal Kombat II (2026) BrScreen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/mortal_kombat_ii_107961.jpg",
        "url" : "https://luluvid.com/d/hmoy3d3lt0zf",             
@@ -11094,7 +11104,27 @@
                    "name" : "Aquellos que desean mi muerte (2021) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/aquellos_que_desean_mi_muerte_87975.jpg",
          "url" : "https://398fitus.com/e/ili7ckaw6zas" ,
-                    "userAgent" : "navigator"                                                                                                                                                                                               
+                    "userAgent" : "navigator"
+                               },{ 
+                   "name" : "Op 1 La fuerza del valor  (2004) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/i_am_david-240158318-mmed.jpg",
+         "url" : "https://398fitus.com/e/hj6ceyk3b41m" ,
+                    "userAgent" : "navigator"        
+                                },{ 
+                   "name" : "Op 2 La fuerza del valor  (2004) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/i_am_david-240158318-mmed.jpg",
+           "url" : "https://luluvid.com/d/z09fxq0vo7zt",             
+                     "isHost" : "true"            
+                               },{ 
+                   "name" : "Op 1 No es país para viejos   (2007) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/no_country_for_old_men-150566696-mmed.jpg",
+         "url" : "https://398fitus.com/e/8lqsplca56b4" ,
+                    "userAgent" : "navigator"        
+                                },{ 
+                   "name" : "Op 2 No es país para viejos   (2007) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://pics.filmaffinity.com/no_country_for_old_men-150566696-mmed.jpg",
+           "url" : "https://luluvid.com/d/bhbhz241iry8",             
+                     "isHost" : "true"                                                                                                                                                                                         
                      }] 
             }]   
    }
