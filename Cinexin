@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Actualizada a 05-07-2026)",
+    "author": "chuky (Actualizada a 11-07-2026)",
     "image": "https://i.imgur.com/rnGjRi9.jpeg",
     "info": "Enlaces de internet",
     "telegram": "+nKU7YrkHm3plNzBi",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{  
+                                   "name" : "Op 1 Atrapando a un monstruo (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/atrapando_a_un_monstruo_107734.jpg",
+       "url" : "https://firestream.to/e/YVv-MB8i",             
+          "isHost" : "true"
+                               },{          
+                                   "name" : "Op 2 Atrapando a un monstruo (2025) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/atrapando_a_un_monstruo_107734.jpg",
+       "url" : "https://luluvid.com/d/usy280p95gy0",             
+        "isHost" : "true"
+                               },{            
                                 "name" : "Op 1 He-Man y los masters del universo (2026) BrScreen 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://image.tmdb.org/t/p/w300/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
        "url" : "https://krakenfiles.com/view/PxgCKX9yrm/file.html",             
@@ -11298,7 +11308,17 @@
                    "name" : "Op 2 Alita: Ángel de combate (2019) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/alita_angel_de_combate_74352.jpg",
           "url" : "https://krakenfiles.com/view/6Ri88TJg6f/file.html" ,
-                    "isHost" : "true"                                                                                                                                                                                                                            
+                    "isHost" : "true"      
+                              },{ 
+                   "name" : "Op 1Rondallas (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/rondallas_107216.jpg",
+              "url" : "https://luluvid.com/d/14yu3bu8tj8x",             
+                     "isHost" : "true"      
+                                },{ 
+                   "name" : "Op 2 Rondallas (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/rondallas_107216.jpg",
+          "url" : "https://krakenfiles.com/view/X2oM3qMC3P/file.html" ,
+                    "isHost" : "true"                                                                                                                                                                                                                       
                      }] 
             }]   
    }
