@@ -24,7 +24,7 @@
                                    "name" : "Op 2 La Patrulla Canina: La dino película  (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://pics.filmaffinity.com/paw_patrol_the_dino_movie-877989315-mmed.jpg",
        "url" : "https://bysefujedu.com/e/m45jg3x7a70f",             
-        "isHost" : "true"      
+        "userAgent" : "navigator"      
                                       },{               
                              "name" : "Op 1 La bola negra (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/la_bola_negra_109490.jpg",
@@ -11656,10 +11656,15 @@
        "url" : "https://vidara.so/e/6XLjqqFB3dcgf",             
         "isHost" : "true"  
                                   },{        
-                              "name" : "La constelación del perro (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+                              "name" : "Op 1 La constelación del perro (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
         "image" : "https://www.elseptimoarte.net/carteles/341/la_constelacion_del_perro_109024.jpg",
        "url" : "https://luluvid.com/d/gi1st2bdgkb6",             
-          "isHost" : "true"                                                                                                                                                                                                                      
+          "isHost" : "true"             
+                                   },{        
+                              "name" : "Op 2 La constelación del perro (2026) 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_constelacion_del_perro_109024.jpg",
+       "url" : "https://myupload.us/v/GHCpxTDtvN",             
+          "isHost" : "true"                                                                                                                                                                                                                         
                      }] 
             }]   
    }
